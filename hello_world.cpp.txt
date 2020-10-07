@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-using namespace std;
+//комментарий 1. ”брана лишн€€ строка
 int main ()
 {
     char name[255];
